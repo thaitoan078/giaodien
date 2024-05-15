@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "otohub",
-    "slug": "otohub",
+    "name": "OtoHub",
+    "slug": "OtoHub",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
